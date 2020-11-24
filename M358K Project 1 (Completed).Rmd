@@ -109,7 +109,7 @@ a = 0
 win.times = c()
 loss.times = c()
 
-while (a < 101) { a= a+1
+while (a < 100) { a= a+1
 
 #win stands for wealth
 win = 2
